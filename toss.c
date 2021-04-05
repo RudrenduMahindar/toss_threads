@@ -72,12 +72,8 @@ void *serve(void *arg)
 
 		sum+=1;
 		
-		if(add_data == false)
-		{
-			add_data = true;
-			printf("I am inside serve thread with sum = %d\n",sum);
-		} 
-		
+		add_data = true;
+		printf("I am inside serve thread with sum = %d\n",sum); 
 		pthread_cond_broadcast(&add_cv);
 		pthread_mutex_unlock(&mutex);
 	
