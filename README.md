@@ -10,6 +10,8 @@ Toss of actions is like a behaviour:
 
 
 The two threads work alternatively to accomplish the goal.
+
+Platform used: 32-bit Ubuntu 16.04.6
 (The two branches of this repo contain the same code)
 
 
