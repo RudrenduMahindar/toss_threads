@@ -14,7 +14,11 @@ The two threads work alternatively to accomplish the goal.
 
 
 # How to use the code?
+
 Step 1: Clone the repo, let's say that you cloned the repo in ~/home/codes
+
 Step 2: Browse to the directory of the cloned repo and type: cd toss_threads, now your path is ~/home/codes/toss_threads 
+
 Step 3: Run the code, type: make, type: ./toss
+
 Enjoy the toss!!!!!!
