@@ -12,7 +12,7 @@ Toss of actions is like a behaviour:
 The two threads work alternatively to accomplish the goal.
 
 Platform used: 32-bit Ubuntu 16.04.6
-(The main branch of this repo contains the C code, branch1 -> C code, branch2 -> C++17 code)
+(The main branch of this repo contains C, C++17 code, branch1 contains C code, branch2 contains C, C++17 code)
 
 
 # How to use the code?
@@ -21,6 +21,6 @@ Step 1: Clone the repo, let's say that you cloned the repo in ~/home/codes
 
 Step 2: Browse to the directory of the cloned repo and type: cd toss_threads, now your path is ~/home/codes/toss_threads 
 
-Step 3: Run the code, type: make, type: ./toss
+Step 3: Run the code: type: make all : to run the executable for C code type: ./toss : to run the executable for C++17 code type: ./toss_cpp
 
 Enjoy the toss!!!!!!
