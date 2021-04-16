@@ -17,7 +17,10 @@ Platform used: 32-bit Ubuntu 16.04.6
 
 # How to use the code?
 
-Step 1: Clone the repo, let's say that you cloned the repo in '~/home/codes'
+Step 1: Clone the repo, let's say that you cloned the repo in 
+'''bash 
+~/home/codes 
+'''
 
 Step 2: Browse to the directory of the cloned repo and type: cd toss_threads, now your path is ~/home/codes/toss_threads 
 
