@@ -17,13 +17,10 @@ Platform used: 32-bit Ubuntu 16.04.6
 
 # How to use the code?
 
-Step 1: Clone the repo, let's say that you cloned the repo in 
-'''bash 
-~/home/codes 
-'''
+Step 1: Clone the repo, let's say that you cloned the repo in `~/home/codes` 
 
-Step 2: Browse to the directory of the cloned repo and type: cd toss_threads, now your path is ~/home/codes/toss_threads 
+Step 2: Browse to the directory of the cloned repo and type: `cd toss_threads`, now your path is `~/home/codes/toss_threads` 
 
-Step 3: Run the code: type: make all : to run the executable for C code type: ./toss : to run the executable for C++17 code type: ./toss_cpp
+Step 3: Run the code: type: `make all` ; to run the executable for C code type: `./toss` ; to run the executable for C++17 code type: `./toss_cpp`
 
 Enjoy the toss!!!!!!
